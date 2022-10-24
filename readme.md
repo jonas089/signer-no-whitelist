@@ -1,4 +1,4 @@
 # Add custom built plugin to chrome
-Open Chrome and navigate to "Plugins" \
-Click "enable developer options" \
-Drag & Drop the .zip file to install the custom version of the Signer.
+1. Open Chrome and navigate to "Plugins" \
+2. Click "enable developer options" \
+3. Drag & Drop the .zip file to install the custom version of the Signer.
