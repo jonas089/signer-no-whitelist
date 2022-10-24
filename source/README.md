@@ -1,4 +1,6 @@
-# Casper Signer
+# Casper Signer - No Whitelist Version
+
+Hi, I removed the whitelist from the Casper Signer to make testing my apps easier.
 
 The Casper Signer is a browser plugin used to sign transactions for the Casper Network.
 
